@@ -1,6 +1,9 @@
 {
   "name": "jate",
   "version": "1.0.0",
+  "engines": {
+    "node": "^19.0.0"
+  },
   "description": "## Your Task",
   "main": "server.js",
   "scripts": {
